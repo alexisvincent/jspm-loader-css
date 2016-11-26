@@ -39,9 +39,8 @@
   "jspm": {
     "browser": {
       "cssnano": false
-    }
-  },
-  "map": {
+    },
+    "map": {
     "./src/loader.js": {
       "node": "./src/nodeLoader.js",
       "browser": "./src/browserLoader.js"
